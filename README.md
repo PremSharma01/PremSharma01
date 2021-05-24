@@ -1,9 +1,19 @@
-- 👋 Hi, I’m Prem Kumar Sharma (@PremSharma01)
-- 👀 I’m interested in Coding (React-Native,Node)
-- 🌱 I’m currently learning (Flutter and some others Languages)
-- 📫 Contact me on Email-premsharma12com@gmail.com
+<h1 align="center">Hi 👋, I'm Prem Kumar Sharma</h1>
+<h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
-<!---
-PremSharma01/PremSharma01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **React Native, Flutter**
+
+👔[📧 [mail](mailto:premsharma12com@gmail.com)
+
+<!-- ### Spotify Playing 🎧 -->
+
+<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="SONG #1" width="350" />](https://open.spotify.com/user/soa7xlupbsktog3ztrm3l68r8) -->
+
+---
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=premsharma01&theme=dark" /></br>
+![Shubhra's github stats](https://github-readme-stats.vercel.app/api?username=premsharma01&show_icons=true&theme=radical&count_private=true)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premsharma01&theme=radical)](https://github.com/pushpender-singh-ap/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=pushpender-singh-ap&color=blue)
+<!--
+**premsharma01/premsharma01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
