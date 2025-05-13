@@ -14,6 +14,6 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=premsharma01&theme=dark" /></br>
 ![Shubhra's github stats](https://github-readme-stats.vercel.app/api?username=premsharma01&show_icons=true&theme=radical&count_private=true)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premsharma01&theme=radical)](https://github.com/premsharma01/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=pushpender-singh-ap&color=blue)
+![](https://komarev.com/ghpvc/?username=premsharma01&color=blue)
 <!--
 **premsharma01/premsharma01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
